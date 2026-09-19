@@ -1,4 +1,12 @@
-# Campus Connect — Flutter Frontend (Foundation)
+## 📱 Download CampusConnect
+
+[![Download CampusConnect](https://img.shields.io/badge/Download-CampusConnect%20APK-success?style=for-the-badge&logo=android)](https://github.com/Vinod650754/CampusConnect/releases/latest)
+
+### Latest Version
+
+**v1.0.0**
+
+[⬇️ Download CampusConnect APK](https://github.com/Vinod650754/CampusConnect/releases/latest)# Campus Connect — Flutter Frontend (Foundation)
 
 Flutter + GetX foundation for the Campus Connect coding-club platform.
 Routing, theming, dependency injection, the networking layer, and a
